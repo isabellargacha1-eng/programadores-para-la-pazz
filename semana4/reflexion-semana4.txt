@@ -1,0 +1,10 @@
+Las comunidades pueden usar Node.js para crear herramientas digitales propias.
+Al ser una tecnología abierta, cualquier persona puede aprenderla y utilizarla.
+Permite desarrollar plataformas para compartir información y reportes.
+También ayuda a crear sistemas de alertas para la comunidad.
+Las soluciones pueden adaptarse a necesidades específicas del entorno.
+Node.js facilita el trabajo colaborativo entre desarrolladores.
+Reduce la dependencia de software propietario y costoso.
+Promueve la participación ciudadana mediante la tecnología.
+Además, fortalece la innovación y el aprendizaje digital.
+Por eso es una herramienta valiosa para proyectos comunitarios.
